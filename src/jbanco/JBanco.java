@@ -14,4 +14,8 @@ public class JBanco {
     public static void saludo(){
         System.out.println("HOLA JONATHAN SOY EL LUIS");
     }
+    
+    public static void saludo2(){
+        System.out.println("SALARIO 2 : " + saldo);
+    }
 }
